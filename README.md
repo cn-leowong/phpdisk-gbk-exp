@@ -101,5 +101,5 @@ http://test.test.com/filestores/2019/08/08/ca14aabe6bc8a343df6d596070568e1a.php?
 ## refer
 
 
-()[https://xz.aliyun.com/t/5594]
-()[https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html]
+https://xz.aliyun.com/t/55940
+https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html
